@@ -1,7 +1,10 @@
+
+# Variables
 word_one = input("Enter a color:")
 word_two = input("Enter a plural:")
-word_tree = input("Enter an animal:")
+word_tree = input("Enter an place:")
 
-print("Roses are", word_one)
+# Print result.
+print("Seas are", word_one)
 print(word_two + " are blue ")
-print("I like", word_tree)
+print("I go", word_tree)
